@@ -36,3 +36,9 @@ Future Improvements
 	- Add a restart button
 	- Add sound effects
 Author
+Created as part of an AP Computer Science Principles midyear project.
+
+
+
+▶️ Play the Game
+You can run the game here: https://codehs.com/sandbox/id/simon-says-bmkKcK/run
